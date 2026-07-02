@@ -14,17 +14,3 @@ TorchCodec
 # Audio
 librosa
 torchaudio
-
-# backend
-fastapi
-uvicorn
-joblib
-
-#frontend
-streamlit
-
-#hosting
-huggingface_hub
-
-#extra
-python-multipart
