@@ -1,4 +1,4 @@
-# 🔊 Machine Fault Detection Using Audio Classification
+# Machine Fault Detection Using Audio Classification
 
 An end-to-end machine learning and deep learning project for detecting abnormal industrial machine sounds from audio recordings.
 
